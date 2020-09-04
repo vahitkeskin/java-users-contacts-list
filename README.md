@@ -9,3 +9,9 @@ TR
 2020 yılında Vahit Keskin tarafından kuruldu,
 bilgisayar mühendisliği öğrencisi
 Bilecik Şeyh Edebali Üniversitesi.
+
+#image1
+
+#image2
+
+#image3
